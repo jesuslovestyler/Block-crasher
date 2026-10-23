@@ -1,9 +1,8 @@
 # Block Crasher
 
-An original falling-block arcade game — our own board, pieces, and look, released to the public domain.
+A free block-crashing arcade game you play in your browser: aim, launch, and smash through the stacks.
 
-An 11×18 well with a custom nine-piece set (one to five blocks). Move, rotate, soft drop, and hard drop; clear lines, climb levels, and watch the next piece preview. Touch buttons, swipe gestures, and full keyboard controls, with pause and resume.
+**Live:** https://jesuslovestyler.github.io/Block-crasher/
+**Home:** https://jesuslovestyler.com/
 
-No saved data, no ads, no tracking — a fresh run every visit.
-
-Built with Muse artifacts.
+One self-contained page: no account, no ads, nothing to buy. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
